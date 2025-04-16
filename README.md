@@ -6,5 +6,5 @@ To run the code first install the MedMNIST data set by using the command:
 
 ```sh
 pip install medmnist
-``
+
 
